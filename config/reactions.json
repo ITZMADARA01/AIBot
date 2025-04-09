@@ -1,0 +1,52 @@
+{
+  "like": {
+    "patterns": ["great", "awesome", "amazing", "excellent", "fantastic", "love", "cool", "wonderful", "brilliant"],
+    "reactions": ["👍", "❤️", "🔥", "⭐", "🙌", "👏", "😍"],
+    "case_sensitive": false
+  },
+  "laugh": {
+    "patterns": ["haha", "lol", "funny", "lmao", "joke", "hilarious", "rofl", "hehe", "lmaoo"],
+    "reactions": ["😂", "😆", "🤣", "😹", "😄", "😅"],
+    "case_sensitive": false
+  },
+  "sad": {
+    "patterns": ["sad", "unhappy", "depressed", "miserable", "disappointed", "crying", "tears", "heartbroken"],
+    "reactions": ["😢", "😔", "😞", "💔", "🥺", "😿"],
+    "case_sensitive": false
+  },
+  "music": {
+    "patterns": ["music", "song", "sing", "playlist", "album", "artist", "track", "tune", "concert", "band", "dj"],
+    "reactions": ["🎵", "🎶", "🎸", "🎧", "🎤", "🎹", "🥁", "🎷", "🎺"],
+    "case_sensitive": false
+  },
+  "surprise": {
+    "patterns": ["wow", "omg", "oh my god", "whoa", "woah", "unbelievable", "incredible", "no way", "seriously"],
+    "reactions": ["😮", "😲", "😱", "😯", "🤯", "😳"],
+    "case_sensitive": false
+  },
+  "agree": {
+    "patterns": ["yes", "agree", "correct", "right", "exactly", "definitely", "absolutely", "indeed"],
+    "reactions": ["✅", "👍", "💯", "✔️", "🆗", "👌"],
+    "case_sensitive": false
+  },
+  "disagree": {
+    "patterns": ["no", "disagree", "wrong", "incorrect", "nope", "not true", "false"],
+    "reactions": ["❌", "👎", "🙅", "🚫", "⛔"],
+    "case_sensitive": false
+  },
+  "celebration": {
+    "patterns": ["congrats", "congratulations", "well done", "bravo", "celebrate", "party", "victory", "win"],
+    "reactions": ["🎉", "🎊", "🥳", "🎆", "🎇", "🏆", "🥇"],
+    "case_sensitive": false
+  },
+  "food": {
+    "patterns": ["food", "hungry", "eat", "dinner", "lunch", "breakfast", "snack", "delicious"],
+    "reactions": ["🍕", "🍔", "🍣", "🍜", "🍩", "🥪", "🍫", "🍗"],
+    "case_sensitive": false
+  },
+  "weather": {
+    "patterns": ["sun", "sunny", "rain", "rainy", "snow", "storm", "weather", "cloudy", "hot", "cold"],
+    "reactions": ["☀️", "🌧️", "❄️", "⛈️", "🌈", "☁️", "🌤️", "⛅"],
+    "case_sensitive": false
+  }
+}
