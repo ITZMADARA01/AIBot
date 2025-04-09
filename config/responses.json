@@ -1,0 +1,83 @@
+{
+  "greeting": {
+    "patterns": ["hello", "hi", "hey", "greetings", "sup", "what's up"],
+    "responses": [
+      "Hello there! How can I help you today?",
+      "Hi! Feel free to ask me anything or play some music!",
+      "Hey! What would you like to listen to today?",
+      "Greetings! How's your day going?"
+    ],
+    "case_sensitive": false
+  },
+  "thanks": {
+    "patterns": ["thank you", "thanks", "thx", "thank", "appreciate it"],
+    "responses": [
+      "You're welcome!",
+      "No problem!",
+      "Happy to help!",
+      "My pleasure!"
+    ],
+    "case_sensitive": false
+  },
+  "goodbye": {
+    "patterns": ["bye", "goodbye", "see you", "cya", "gotta go", "gtg"],
+    "responses": [
+      "Goodbye! Come back soon!",
+      "See you later!",
+      "Take care!",
+      "Bye! Let me know if you need anything else!"
+    ],
+    "case_sensitive": false
+  },
+  "music": {
+    "patterns": ["play music", "song", "play song", "some music", "some tunes"],
+    "responses": [
+      "I'd be happy to play music for you! Try using the /play command followed by a song name.",
+      "Ready for some tunes! Use /play followed by a song name to start playing.",
+      "Want to listen to music? Use /search to find your favorite songs.",
+      "I can play music for you! Just use the /play command followed by what you want to hear."
+    ],
+    "case_sensitive": false
+  },
+  "help": {
+    "patterns": ["help", "how to", "instructions", "guide", "what can you do"],
+    "responses": [
+      "I can play music, chat with you, and more! Try using /help to see all my commands.",
+      "Need help? Use /help to see a list of all available commands.",
+      "I'm here to help! You can use /play to play music, /ask to ask me questions, and much more. Try /help for a full list.",
+      "I can do many things! Try /help to see all my commands and features."
+    ],
+    "case_sensitive": false
+  },
+  "mood": {
+    "patterns": ["how are you", "how's it going", "how do you feel", "how you doing"],
+    "responses": [
+      "I'm doing great, thanks for asking! How can I help you today?",
+      "I'm functioning perfectly! Ready to play some music or chat with you.",
+      "I'm having a wonderful day helping users like you! How can I assist you?",
+      "All systems operational and ready to serve! What would you like me to do?"
+    ],
+    "case_sensitive": false
+  },
+  "compliment": {
+    "patterns": ["good bot", "nice", "cool", "awesome bot", "love you", "great job"],
+    "responses": [
+      "Thank you! I'm here to make your day better!",
+      "You're too kind! It's my pleasure to assist you.",
+      "Thanks for the compliment! Is there anything else I can help with?",
+      "I appreciate that! Let me know if you need anything else."
+    ],
+    "case_sensitive": false
+  },
+  "joke": {
+    "patterns": ["tell joke", "tell me a joke", "joke", "be funny", "make me laugh"],
+    "responses": [
+      "Why don't scientists trust atoms? Because they make up everything!",
+      "How does a computer get drunk? It takes screenshots!",
+      "Why did the music note get arrested? It was caught in a minor!",
+      "What's a robot's favorite type of music? Heavy metal!",
+      "Why couldn't the bicycle stand up by itself? It was two tired!"
+    ],
+    "case_sensitive": false
+  }
+}
